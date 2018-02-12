@@ -1,6 +1,6 @@
 {
-	"url": "https://mycompany.example.com/myapp/releases/myrelease",
-	"name": "My Release Name",
-	"notes": "Theses are some release notes innit",
+	"url": "https://github.com/AkashiX/envoplayer/releases",
+	"name": "envoplayer",
+	"notes": "no comments now",
 	"pub_date": "2013-09-18T12:29:53+01:00"
 }
